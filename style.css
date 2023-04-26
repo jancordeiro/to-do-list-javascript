@@ -90,3 +90,7 @@ body {
 #btn-ok:hover {
 	background-color: darkgreen;
 }
+
+a {
+	color: white;
+}
