@@ -7,3 +7,7 @@ Features:
 - Write data to local memory;
 - Doesn't need a DB;
 - Animations made in CSS.
+
+## Screenshot
+
+![TO DO LIST](to-do-list-screenshot.jpeg)
