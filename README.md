@@ -8,7 +8,7 @@ Features:
 - Doesn't need a DB;
 - Animations made in CSS.
 
-[TRY IT](http://jcstudio.esy.es/projetos/javascript/todolist)
+[Try it here!](https://jancordeiro.github.io/to-do-list-javascript/)
 
 ## Screenshot
 
